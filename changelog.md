@@ -43,7 +43,7 @@ Toda anotación notable de este proyecto será documentada en este archivo.
 - Colisión en las puertas.
 - Paredes sin cerrar.
 - Cámara sobrepasa paredes y techo.
-- 
+- Relacion tamaño Jugador - Entorno desproporcionado.
 
 ---
 
