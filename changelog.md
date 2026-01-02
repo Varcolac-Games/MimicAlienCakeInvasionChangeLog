@@ -11,7 +11,8 @@ Toda anotación notable de este proyecto será documentada en este archivo.
 
 ## [Versión 2] - 24-12-2025
 ### 🚀 Añadido (Added)
-### **Mecánicas:**
+### Mecánicas:
+
 #### Nuevo Enemigo: Mimic (Prototipo): 
 - Implementado el Cubo Rojo como placeholder funcional para el Mimic.
 - Lógica de Emboscada: Activación automática al entrar en el radio de detección.
@@ -28,11 +29,22 @@ Toda anotación notable de este proyecto será documentada en este archivo.
 *  Implementado el sistema de Respawn.
 
 
-
-
 ## [Versión 1] - 19-12-2025
 ### 🚀 Añadido (Added)
-### **Mecánicas:**
+
+### Mecánicas:
 * Implementado sistema de movimiento FPS: Caminar, correr y salto.
-### **Contenido:**
+### Contenido:
 * Nivel navegable de prueba.
+
+---
+
+### ⚠️ Problemas Conocidos
+- Colisión en las puertas.
+- Paredes sin cerrar.
+- Cámara sobrepasa paredes y techo.
+- 
+
+---
+
+### 📋 Próximos Pasos / Pendientes
